@@ -13,3 +13,4 @@ A partir de los umbrales y el radio, se calculan los abanicos, uno frontal, que 
 El tamaño del abanico depende del ángulo calculado con los umbrales y el valor del radio, para cada ángulo se calcula una distancia límite que se corrige por trigonometría,
 El funcionamiento general del robot se controla mediante una máquina de estados, donde cada estado representa una fase del aparcamiento: buscar hueco, girar, entrar, esperar, salir, reorientar el robot y continuar avanzando una vez realizado el aparcamiento.
 También en el código se desarrollan reguladores proporcionales que ayudan a ajustar el control angular y lineal.
+<img width="1314" height="541" alt="image" src="https://github.com/user-attachments/assets/90ab2d15-42a8-47a4-9b0e-d5e18b4a6cf6" />
