@@ -1,9 +1,9 @@
-# 🤖 Autonomous TurtleBot Control with ROS2
+# Autonomous TurtleBot Control with ROS2
 
 Autonomous navigation and parking algorithms developed for a
 TurtleBot using ROS2, LiDAR and wheel odometry.
 
-## 🚀 Features
+## Features
 
 - Geometric trajectory generation
 - Odometry-based motion control
@@ -12,7 +12,7 @@ TurtleBot using ROS2, LiDAR and wheel odometry.
 - Finite State Machine for navigation
 - Proportional controllers for linear and angular motion
 
-## 🅿️ Autonomous Parking
+## Autonomous Parking
 
 The robot:
 
@@ -23,7 +23,7 @@ The robot:
 5. Reorients itself
 6. Continues autonomous navigation
 
-## 🎮 Algorithms
+## Algorithms
 
 ### Geometric trajectories
 
@@ -35,9 +35,10 @@ The robot:
 <img width="1314" height="541" alt="image" src="https://github.com/user-attachments/assets/90ab2d15-42a8-47a4-9b0e-d5e18b4a6cf6" />
 
 
-## 🛠️ Technologies
+## Technologies
 
 - ROS2
+- Linux
 - Python
 - TurtleBot
 - LiDAR
@@ -45,11 +46,12 @@ The robot:
 - Finite State Machines
 - Proportional Control
 
-## 📹 Demo
+## Demo
+
+https://github.com/user-attachments/assets/46440dc3-73fd-440e-ab6c-a571a07cb8f7
 
 
-
-## 📚 Project context
+## Project context
 
 Developed as part of the Robotics and Automation Master's
 coursework.
